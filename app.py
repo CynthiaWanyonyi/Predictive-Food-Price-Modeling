@@ -5,9 +5,8 @@ import os
 
 # Define a dictionary to map commodities to their respective model files
 model_files = {
-    "Maize": "maize1.pkl",
+    "Maize": "maize.pkl",
     "Beans": "beans_ml.pkl",
-    "Milk":  "milk_ml.pkl",
     "Food Basket": "basket_ml.pkl"
 }
 
