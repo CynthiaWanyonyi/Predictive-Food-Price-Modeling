@@ -7,7 +7,6 @@ import os
 model_files = {
     "Maize": "maize1.pkl",
     "Beans": "beans_ml.pkl",
-    "Milk":  "milk_ml.pkl",
     "Food Basket": "basket_ml.pkl"
 }
 
