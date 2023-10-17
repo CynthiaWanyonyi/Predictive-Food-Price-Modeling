@@ -1,11 +1,11 @@
 # **Predictive-Food-Price-Modeling**
 ### **Authors**
-- Cynthia Nasimiyu 
 - Julius Charles 
 - Wambui Thuku 
 - John Karanja 
 - Ismail Ibrahim 
 - Mariacharlote Mbiyu
+- Cynthia Nasimiyu 
 
 ## **Business Understanding**
 **Overview:** This repository features a food price prediction model capable of forecasting future food prices, particularly for two key commodities, maize and beans. The model provides predictions for various time horizons, ranging from short-term (e.g., next week, next month) to medium-term (e.g., next quarter, next year)
