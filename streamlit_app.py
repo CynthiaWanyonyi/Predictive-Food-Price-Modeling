@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # Load data from a local file
-data_file_path = "https://raw.githubusercontent.com/karanja-john/Food-prices-project/main/wfp_food_prices_kenunitprices.csv"
+data_file_path = "https://raw.githubusercontent.com/CynthiaWanyonyi/Predictive-Food-Price-Modeling/main/wfp_food_prices_kenunitprices.csv"
 data = pd.read_csv(data_file_path)
 
 # Convert the 'date' column to datetime
